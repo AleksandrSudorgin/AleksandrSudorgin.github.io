@@ -8,7 +8,7 @@
   },
   "links": [
     {
-      "id": "telegram-main-chat",
+      "description": "Мой TikTok",
       "label": "Бот с вакансиями",
       "description": "Бот с вакансиями.",
       "url": "https://t.me/jobforeditors_bot",
