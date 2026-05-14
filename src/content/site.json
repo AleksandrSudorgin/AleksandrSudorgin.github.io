@@ -9,11 +9,12 @@
   "links": [
     {
       "id": "telegram-main-chat",
-      "label": "Job for editors",
+      "label": "Бот с вакансиями",
       "description": "Бот с вакансиями.",
       "url": "https://t.me/jobforeditors_bot",
       "avatar": "/community-icons/telegram-job-for-editors.png",
       "note": "@jobforeditors_bot",
+      "tag": "Бот",
       "kind": "bot"
     },
     {
@@ -38,12 +39,12 @@
     },
     {
       "id": "telegram-support",
-      "label": "Support",
+      "label": "Поддержка",
       "description": "Вопросы и помощь.",
       "url": "https://t.me/offer_bot_support",
       "avatar": "/community-icons/telegram-support.png",
       "note": "@offer_bot_support",
-      "tag": "Help",
+      "tag": "Помощь",
       "kind": "support"
     },
     {
@@ -59,21 +60,21 @@
     {
       "id": "instagram-feed",
       "label": "Instagram",
-      "description": "Моя инста.",
+      "description": "Мой инстаграм",
       "url": "https://www.instagram.com/aleksandr_sudorhin/",
       "note": "@aleksandr_sudorhin"
     },
     {
       "id": "youtube-channel",
       "label": "YouTube",
-      "description": "Мой YouTube канал.",
+      "description": "Мой YouTube канал",
       "url": "https://youtube.com/@alexandersudorgin?si=kdshRYoN8jm-G1Bx",
       "note": "@alexandersudorgin"
     },
     {
       "id": "tiktok-shortform",
       "label": "TikTok",
-      "description": "Мой ТТ",
+      "description": "My TikTok",
       "url": "https://www.tiktok.com/@aleksandr_sudorgin",
       "note": "@aleksandr_sudorgin"
     },
