@@ -1,0 +1,97 @@
+{
+  "profile": {
+    "firstName": "Aleksandr",
+    "lastName": "Sudorgin",
+    "bio": "Все нужные ссылки в одном месте.",
+    "avatar": "/community-icons/photo_2025-07-21_11-04-18.jpg",
+    "url": "https://t.me/Aleksandr_Sudorhin"
+  },
+  "links": [
+    {
+      "id": "telegram-main-chat",
+      "label": "Job for editors",
+      "description": "Бот с вакансиями.",
+      "url": "https://t.me/jobforeditors_bot",
+      "avatar": "/community-icons/telegram-job-for-editors.png",
+      "note": "@jobforeditors_bot",
+      "kind": "bot"
+    },
+    {
+      "id": "telegram-channel",
+      "label": "Главный канал",
+      "description": "Мой, авторский канал.",
+      "url": "https://t.me/the_precompose",
+      "avatar": "/community-icons/telegram-main-channel.png",
+      "note": "@the_precompose",
+      "tag": "Posts",
+      "kind": "channel"
+    },
+    {
+      "id": "telegram-news",
+      "label": "Новости",
+      "description": "Render info | AI | Новости",
+      "url": "https://t.me/The_render_info",
+      "avatar": "/community-icons/telegram-news.png",
+      "note": "@The_render_info",
+      "tag": "News",
+      "kind": "news"
+    },
+    {
+      "id": "telegram-support",
+      "label": "Support",
+      "description": "Вопросы и помощь.",
+      "url": "https://t.me/offer_bot_support",
+      "avatar": "/community-icons/telegram-support.png",
+      "note": "@offer_bot_support",
+      "tag": "Help",
+      "kind": "support"
+    },
+    {
+      "id": "telegram-reserve",
+      "label": "Бесплатные вакансии",
+      "description": "Свежие вакансии для монтажеров.",
+      "url": "https://t.me/montage_job",
+      "avatar": "/community-icons/telegram-free-vacancies.png",
+      "note": "@montage_job",
+      "tag": "Jobs",
+      "kind": "channel"
+    },
+    {
+      "id": "instagram-feed",
+      "label": "Instagram",
+      "description": "Моя инста.",
+      "url": "https://www.instagram.com/aleksandr_sudorhin/",
+      "note": "@aleksandr_sudorhin"
+    },
+    {
+      "id": "youtube-channel",
+      "label": "YouTube",
+      "description": "Мой YouTube канал.",
+      "url": "https://youtube.com/@alexandersudorgin?si=kdshRYoN8jm-G1Bx",
+      "note": "@alexandersudorgin"
+    },
+    {
+      "id": "tiktok-shortform",
+      "label": "TikTok",
+      "description": "Мой ТТ",
+      "url": "https://www.tiktok.com/@aleksandr_sudorgin",
+      "note": "@aleksandr_sudorgin"
+    },
+    {
+      "id": "github-projects",
+      "label": "GitHub",
+      "description": "Код, репозитории и текущие проекты.",
+      "url": "https://github.com/yourprofile",
+      "note": "Open source",
+      "hidden": true
+    },
+    {
+      "id": "portfolio-site",
+      "label": "Portfolio",
+      "description": "Сайт, кейсы и подборка работ.",
+      "url": "https://example.com",
+      "note": "Custom domain",
+      "hidden": true
+    }
+  ]
+}
